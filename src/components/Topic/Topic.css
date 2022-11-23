@@ -1,0 +1,29 @@
+.logo {
+  width: 180px;
+  height: 180px;
+  margin-top: 18px;
+}
+
+.nb {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 14px;
+}
+
+.topic-container {
+  margin-right: 42px;
+  margin-left: 42px;
+  background-color: rgb(85, 114, 104);
+  margin-top: 168px;
+  border-radius:12px;
+}
+
+button{
+ border-style: none;
+ border-radius: 5cm;
+ font-size: medium;
+color: white ;
+}
+button:hover{
+  color: aquamarine;
+}
